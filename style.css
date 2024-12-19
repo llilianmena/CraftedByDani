@@ -8,12 +8,25 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-
+/* 
 #box1{
     
     border: 5px solid;
     width: 250px;
     height: 250px;
+    background-color: azure;
+/* } 
+#box2{
+    padding: 200px;
+    border: 10px solid;
+    width: 250px;
+    height: 250px;
+    background-color: azure;
+} */
+
+img{
+    border-radius: 50px;
+
 }
 
 nav {
@@ -38,4 +51,9 @@ nav >ul >li >a:hover{
     font-size: 15px;
     transform: ;
     cursor: pointer;
+}
+/* targets the first image and makes it larger than rest */
+#first_project{
+    width: 500px;
+
 }

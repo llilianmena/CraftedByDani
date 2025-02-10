@@ -1,4 +1,6 @@
 # CraftedByDani
+![Cbd1](images/Cbd1.png)
+![Cbd2](images/Cbd2.png)
 
 ## Description
 Hi! I'm Daniela, a beginner software engineer with a passion for coding, problem-solving, and building amazing digital experiences. I'm on a journey to improve my skills and showcase my projects as I grow in the tech industry. 
